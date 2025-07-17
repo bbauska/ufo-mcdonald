@@ -21,96 +21,124 @@ SUMMARY AND RECOMMENDATIONS:....................................................
 REFERENCES:.....................................................................................................................................................................53
 (Note: The above table of content is not part of the original paper and has been added for convenience only.)
 STATEMENT ON UNIDENTIFIED FLYING OBJECTS
+
 submitted to the House Committee on Science and Astronautics at July 29,
+
 1968, Symposium on Unidentified Flying Objects, Rayburn Bldg.,
+
 Washington, D.C., by James E. McDonald.
 by
 James E. McDonald, Senior Physicist, Institute of Atmospheric Physics, and
 professor, Department of Meteorology, The University of Arizona, Tucson,
 Arizona.
+
 Prepared statement submitted to the House Committee on Science and Astronautics at July 29, 1968,
 Symposium on Unidentified Flying Objects, Rayburn Bldg., Washington, D.C., by James E. McDonald.
+
 INTRODUCTION:
-I should like first to commend the House Committee on Science and Astronautics for recognizing the need for a
-closer look at scientific aspects of the long-standing puzzle of the Unidentified Flying Objects (UFOs). From time to
-time in the history of science, situations have arisen in which a problem of ultimately enormous importance went
-begging for adequate attention simply because that problem appeared to involve phenomena so far outside the
-current bounds of scientific knowledge that it was not even regarded as a legitimate subject of serious scientific
-concern. That is precisely the situation in which the UFO problem now lies. One of the principal results of my own
-recent intensive study of the UFO enigma is this: I have become convinced that the scientific community, not only
-in this country but throughout the world, has been casually ignoring as nonsense a matter of extraordinary scientific
-importance. The attention of your Committee can, and I hope will, aid greatly in correcting this situation. As you
-will note in the following, my own present opinion, based on two years of careful study, is that UFOs are probably
-extraterrestrial devices engaged in something that might very tentatively be termed "surveillance."
 
-If the extraterrestrial hypothesis is proved correct (and I emphasize that the present evidence only points in that
-direction but cannot be said to constitute irrefutable proof), then clearly UFOs will become a top-priority scientific
-problem. I believe you might agree that, even if there were a slight chance of the correctness of that hypothesis, the
-UFOs would demand the most careful attention. In fact, that chance seems to some of us a long way from trivial. We
-share the view of Vice Adm. R. H. Hillenkoetter, former CIA Director, who said eight years ago, "It is imperative
-that we learn where the UFOs come from and what their purpose is." (Ref. 1) Since your committee is concerned
-only with broad aspects of our national scientific program but also with the prosecution of our entire space program,
-and since that space program has been tied in for some years now with the dramatic goal of a search for life in the
-universe, I submit that the topic of today's Symposium is eminently deserving of your attention. Indeed, I have to
-state, for the record, that I believe no other problem within your jurisdiction is of comparable scientific and national
-importance. Those are strong words, and I intend them to be.
-In addition to your Committee responsibilities with respect to science and the aerospace programs, there is another
-still broader basis upon which it is highly appropriate that you now take up the UFO problem: Twenty years of
-public interest, public puzzlement, and even some public disquiet demand that we all push toward early clarification
-of this unparalleled scientific mystery. I hope that our session here today will prove a significant turning point,
-orienting new scientific efforts towards illumination of this scientific problem that has been with us for over 20
-years.
+I should like first to commend the House Committee on Science and Astronautics for 
+recognizing the need for a closer look at scientific aspects of the long-standing puzzle 
+of the Unidentified Flying Objects (UFOs). From time to time in the history of science, 
+situations have arisen in which a problem of ultimately enormous importance went begging 
+for adequate attention simply because that problem appeared to involve phenomena so far 
+outside the current bounds of scientific knowledge that it was not even regarded as a 
+legitimate subject of serious scientific concern. That is precisely the situation in 
+which the UFO problem now lies. One of the principal results of my own recent intensive 
+study of the UFO enigma is this: I have become convinced that the scientific community, 
+not only in this country but throughout the world, has been casually ignoring as nonsense 
+a matter of extraordinary scientific importance. The attention of your Committee can, and 
+I hope will, aid greatly in correcting this situation. As you will note in the following, 
+my own present opinion, based on two years of careful study, is that UFOs are probably
+extraterrestrial devices engaged in something that might very tentatively be termed 
+"surveillance." 
+
+If the extraterrestrial hypothesis is proved correct (and I emphasize that the present 
+evidence only points in that direction but cannot be said to constitute irrefutable 
+proof), then clearly UFOs will become a top-priority scientific problem. I believe you 
+might agree that, even if there were a slight chance of the correctness of that hypothesis, 
+the UFOs would demand the most careful attention. In fact, that chance seems to some of 
+us a long way from trivial. We share the view of Vice Adm. R. H. Hillenkoetter, former 
+CIA Director, who said eight years ago, "It is imperative that we learn where the UFOs 
+come from and what their purpose is." (Ref. 1) Since your committee is concerned only 
+with broad aspects of our national scientific program but also with the prosecution of 
+our entire space program, and since that space program has been tied in for some years 
+now with the dramatic goal of a search for life in the universe, I submit that the topic 
+of today's Symposium is eminently deserving of your attention. Indeed, I have to state, 
+for the record, that I believe no other problem within your jurisdiction is of comparable 
+scientific and national importance. Those are strong words, and I intend them to be.
+In addition to your Committee responsibilities with respect to science and the aerospace 
+programs, there is another still broader basis upon which it is highly appropriate that 
+you now take up the UFO problem: Twenty years of public interest, public puzzlement, and 
+even some public disquiet demand that we all push toward early clarification of this 
+unparalleled scientific mystery. I hope that our session here today will prove a 
+significant turning point, orienting new scientific efforts towards illumination of this 
+scientific problem that has been with us for over 20 years.
+
 SCOPE AND BACKGROUND OF PRESENT COMMENTS:
-It has been suggested that I review for you my experiences in interviewing UFO witnesses here and abroad and that
-I discuss ways in which my professional experience in the field of atmospheric physics and meteorology illuminates
-past and present attempts at accounting for UFO phenomena. To understand the basis of my comments, it may be
-helpful to note briefly the nature of my own studies on UFOs.
-I have had a moderate interest in the UFO problem for twenty years, much as have a scattering of other scientists. In
-southern Arizona, during the period 1954-66, I interviewed, on a generally rather random basis, witnesses in such
-local sightings as happened to come to my attention via press or personal communications. This experience taught
-me much about lay misinterpretations of observations of aircraft, planets, meteors, balloons, flares, and the like. The
-frequency with which laymen misconstrue phenomena associated with fireballs (meteors brighter than magnitude -
-5), led me to devote special study to meteor physics; other topics in my own field of atmospheric physics also drew
-my closer attention as a result of their bearing on various categories of UFO reports. This period of rather casual
-UFO-witness interviewing on a local basis proved mainly educational; yet on a few occasions I encountered
-witnesses of seemingly high credibility whose reports lay well outside any evident meteorological, astronomical, or
-other conventional bounds. Because I was quite unaware, before 1966, that those cases were, in fact, paralleled by
-astonishing numbers of comparable cases elsewhere in the U.S. and the rest of the world, they left me only
-moderately puzzled and mildly bothered, since I came upon relatively few impressive cases within the environs of
-Tucson in those dozen years of discursive study. I was aware of the work of non-official national investigative
-groups like NICAP (National Investigations Committee on Aerial Phenomena) and APRO (Aerial Phenomena
-Research Organization); but lacking basis for detailed personal evaluation of their investigative methods, I simply
-did not take their publications very seriously. I was under other misimpressions, I found later, as to the nature of the
-official UFO program, but I shall not enlarge on this before this Committee. (I cite all of this here because I regard it
-relevant to an appreciation, by the Committee, of the way in which at least one scientist has developed his present
-strong concern for the UFO problem after a prior period of some years of only mild interest. Despite having
-interviewed a total of perhaps 150-200 Tucson-area witnesses prior to 1966 (75 of them in a single inconclusive case
-in 1958), I was far from overwhelmed with the importance of the UFO problem.
-A particular sighting incident in Tucson in early 1966, followed by the widely-publicized March, 1966, Michigan
-sightings (I, too, felt, the "swamp gas" explanation was quite absurd once I checked a few relevant points), led me
-finally to take certain steps to devote the coming summer vacation months to a much closer look at the UFO
-problem. Within only a few weeks in May and June of 1966, after taking a close look at the files and modes of
-operation of both private and official (i.e. Project Bluebook) UFO investigative programs, after seeing for the first
-time press-clipping files of (to me) astonishing bulk, covering innumerable intriguing cases I had never before heard
-of, and (above all) after the beginning of what became a long period of personal interviewing of key witnesses in
-important UFO cases, I rapidly altered my conception of the scientific importance of the UFO question. By mid-
-1966, I had already begun what became months of effort to arouse new interest and to generate new UFO
+It has been suggested that I review for you my experiences in interviewing UFO witnesses 
+here and abroad and that I discuss ways in which my professional experience in the field 
+of atmospheric physics and meteorology illuminates past and present attempts at accounting 
+for UFO phenomena. To understand the basis of my comments, it may be helpful to note 
+briefly the nature of my own studies on UFOs. I have had a moderate interest in the UFO 
+problem for twenty years, much as have a scattering of other scientists. In southern 
+Arizona, during the period 1954-66, I interviewed, on a generally rather random basis, 
+witnesses in such local sightings as happened to come to my attention via press or 
+personal communications. This experience taught me much about lay misinterpretations of 
+observations of aircraft, planets, meteors, balloons, flares, and the like. The frequency 
+with which laymen misconstrue phenomena associated with fireballs (meteors brighter than 
+magnitude - 5), led me to devote special study to meteor physics; other topics in my own 
+field of atmospheric physics also drew my closer attention as a result of their bearing 
+on various categories of UFO reports. This period of rather casual UFO-witness 
+interviewing on a local basis proved mainly educational; yet on a few occasions I 
+encountered witnesses of seemingly high credibility whose reports lay well outside any 
+evident meteorological, astronomical, or other conventional bounds. Because I was quite 
+unaware, before 1966, that those cases were, in fact, paralleled by astonishing numbers of 
+comparable cases elsewhere in the U.S. and the rest of the world, they left me only
+moderately puzzled and mildly bothered, since I came upon relatively few impressive cases 
+within the environs of Tucson in those dozen years of discursive study. I was aware of the 
+work of non-official national investigative groups like NICAP (National Investigations 
+Committee on Aerial Phenomena) and APRO (Aerial Phenomena Research Organization); but 
+lacking basis for detailed personal evaluation of their investigative methods, I simply
+did not take their publications very seriously. I was under other misimpressions, I 
+found later, as to the nature of the official UFO program, but I shall not enlarge on 
+this before this Committee. (I cite all of this here because I regard it relevant to an 
+appreciation, by the Committee, of the way in which at least one scientist has developed 
+his present strong concern for the UFO problem after a prior period of some years of only 
+mild interest. Despite having interviewed a total of perhaps 150-200 Tucson-area witnesses 
+prior to 1966 (75 of them in a single inconclusive case in 1958), I was far from 
+overwhelmed with the importance of the UFO problem. A particular sighting incident in 
+Tucson in early 1966, followed by the widely-publicized March, 1966, Michigan sightings 
+(I, too, felt, the "swamp gas" explanation was quite absurd once I checked a few relevant 
+points), led me finally to take certain steps to devote the coming summer vacation months 
+to a much closer look at the UFO problem. Within only a few weeks in May and June of 1966, 
+after taking a close look at the files and modes of operation of both private and official 
+(i.e. Project Bluebook) UFO investigative programs, after seeing for the first time press-
+clipping files of (to me) astonishing bulk, covering innumerable intriguing cases I had 
+never before heard of, and (above all) after the beginning of what became a long period of 
+personal interviewing of key witnesses in important UFO cases, I rapidly altered my 
+conception of the scientific importance of the UFO question. By mid-1966, I had already 
+begun what became months of effort to arouse new interest and to generate new UFO 
+investigative programs in various science agencies of the Federal government and in various 
+scientific organizations. Now, two years later, with very much more background upon which 
+to base an opinion, I find myself increasingly more concerned with what has happened during 
+the past twenty years' neglect, by almost the entire scientific community, of a problem 
+that appears to be one of extremely high order of scientific importance. 
 
-investigative programs in various science agencies of the Federal government and in various scientific organizations.
-Now, two years later, with very much more background upon which to base an opinion, I find myself increasingly
-more concerned with what has happened during the past twenty years' neglect, by almost the entire scientific
-community, of a problem that appears to be one of extremely high order of scientific importance.
 THE UNCONVENTIONAL NATURE OF THE UFO PROBLEM:
-To both laymen and scientists, the impressive progress that science has made towards understanding our total
-environment prompts doubts that there could be machine-like objects of entirely unconventional nature moving
-through our atmosphere, hovering over automobiles, power installations, cities, and the like, yet all the while going
-unnoticed by our body scientific. Such suggestions are hard to take seriously, and I assure you that, until I had taken
-a close look at the evidence, I did not take them seriously. We have managed to so let our preconceptions block
-serious consideration of the possibility that some form of alien technology is operating within our midst that we
-have succeeded in simply ignoring the facts. And we scientists have ignored the pleas of groups like NICAP and
-APRO, who have for years been stressing the remarkable nature of the UFO evidence. Abroad, science has reacted
-in precisely this same manner, ignoring as nonsensical the report-material gathered by private groups operating
-outside the main channels of science. I understand this neglect all too well; I was just one more of those scientists
+To both laymen and scientists, the impressive progress that science has made towards 
+understanding our total environment prompts doubts that there could be machine-like 
+objects of entirely unconventional nature moving through our atmosphere, hovering over 
+automobiles, power installations, cities, and the like, yet all the while going unnoticed 
+by our body scientific. Such suggestions are hard to take seriously, and I assure you that, 
+until I had taken a close look at the evidence, I did not take them seriously. We have 
+managed to so let our preconceptions block serious consideration of the possibility that 
+some form of alien technology is operating within our midst that we have succeeded in 
+simply ignoring the facts. And we scientists have ignored the pleas of groups like NICAP 
+and APRO, who have for years been stressing the remarkable nature of the UFO evidence. 
+Abroad, science has reacted in precisely this same manner, ignoring as nonsensical the 
+report-material gathered by private groups operating outside the main channels of science. 
+I understand this neglect all too well; I was just one more of those scientists
 who almost ignored those facts, just one more of those scientists who was rather sure that such a situation nearly
 could not exist, one more citizen rather sure that official statements must be basically meaningful on the non-
 existence of any substantial evidence for the reality of UFOs.
@@ -125,6 +153,7 @@ and neglected problem. The UFO problem is, if anything, a highly unconventional 
 reviewing my own investigations in detail, and before examining various proposed explanations lying within
 atmospheric physics, it may be well to take note of some of the principal hypotheses that have been proposed, at one
 time or another, to account for UFOs.
+
 SOME ALTERNATIVE HYPOTHESES:
 In seeking explanations for UFO reports, I like to weigh witness accounts in terms of eight principal UFO
 hypotheses:
@@ -204,68 +233,85 @@ delay. On the basis of the evidence I have examined, and on the basis of my own 
 instincts lead me to hedge that prediction just to the extent of suggesting that if the UFOs are not of extramundane
 origin, then I suspect that they will prove to be something very much more bizarre, something of perhaps even
 greater scientific interest than extraterrestrial devices.
+
 SOME REMARKS ON INTERVIEWING EXPERIENCE AND TYPES OF
 UFO CASES ENCOUNTERED:
-1. Sources of cases dealt with:
-Prior to 1966, I had interviewed about 150-200 persons reporting UFOs; since 1966, I have interviewed about 200-
-250 more. The basis of my post-1966 interviewing has been quite different from the earlier period of interviewing of
-local witnesses, whose sightings I heard about essentially by chance. Almost all of my post-1966 interviews have
-been with witnesses in cases already, investigated by one or more of the private UFO investigatory groups such as
-NICAP or APRO, or by the official investigative agency (Project Bluebook). Thus, after 1966, I was not dealing
-with a body of witnesses reporting Venus, fireballs, and aircraft strobelights, because such cases are so easily
-recognizable that the groups whose prior checks I was taking advantage of had already culled out and rejected most
-of such irrelevant material. Many of the cases I checked were older cases, some over 20 years old. It was primarily
-the background work of the many independent investigatory groups here and in other parts of the world (especially
-the Australian area where I had an opportunity to interview about 80 witnesses) that made possible my dealing with
-that type of once sifted data that yields up scientifically interesting information so quickly. I wish to put on record
-my indebtedness to these "dedicated amateurs", to use the astronomer's genial term; their contribution to the ultimate
-clarification of the UFO problem will become recognized as having been of basic importance, notwithstanding the
-scorn with which scientists have, on more than one occasion, dismissed their efforts. Although I cite only the larger
-of these groups (NICAP about 12,000 members, APRO about 8,000), there are many smaller groups here and abroad
-that have done a most commendable job on almost no resources. (Needless to add, there are other small groups
-whose concern is only with sensational and speculative aspects.)
-2. Some relevant witness-characteristics:
-By frequently discussing my own interviewing experience with members of those non-official UFO groups whose
-past work has been so indispensable to my own studies, I have learned that most of my own reactions to the UFO
-witness- interview problem are shared by those investigators. The recurrent problem of securing unequivocal
-descriptions, the almost excruciating difficulty in securing meaningful estimates of angular size, angular elevation,
-and angular displacements from laymen, the inevitable variance of witness descriptions of a shared observation, and
-other difficulties of non-instrumental observing are familiar to all who have investigated UFO reports. But so also
-are the impressions of widespread concern among UFO witnesses to avoid (rather than to seek) publicity over their
-sightings. The strong disinclination to make an open report of an observation of something the witness realizes is far
-outside the bounds of accepted experience crops up again and again. In my interviewing in 1947 sightings, done as a
-cross check on case material used in a very valuable recent publication by Bloecher (Ref. 8), I came to realize
-clearly for the first time that this reluctance was not something instilled by post-1947 scoffing at UFOs, but is part of
-a broadly disseminated attitude to discount the anomalous and the inexplicable, to be unwilling even to report what
-one has seen with his own eyes if it is well outside normal experience as currently accepted. I have heard fellow-
-scientists express dismay at the unscientific credulity with which the general public jumps to the conclusion that
-UFOs are space ships. Those scientists have certainly not interviewed many UFO witnesses; for almost precisely the
-opposite attitude is overwhelmingly the characteristic response. In my Australian interviewing, I found the same
-uneasy feeling about openly reporting an observation of a well-defined UFO sighting, lest acquaintances think one
-"has gone round the bend." Investigators in still other parts of the world where modern scientific values dominate
-world-views have told me of encountering just this same witness-reluctance, The charge that UFO witnesses, as a
-group, are hyperexcitable types is entirely incorrect. I would agree with the way Maj. Gen. John A. Samford, then
-Director of Air Force Intelligence, put it in a 1952 Pentagon press conference: "Credible observers have sighted
-relatively incredible objects."
-Not only is the charge of notoriety-seeking wrong, not only is the charge of hyperexcitability quite inappropriate to
-the witnesses I have interviewed, but so also is the easy charge that they see an unusual aerial phenomenon and
-directly leap to some kind of "spaceship hypothesis." My experience in interviewing witnesses in the selected
 
-sample I have examined since 1966 is that the witness first attempts to fit the anomalous observation into some
-entirely _conventional_ category. "I thought it must be an airplane." Or, "At first, I thought it was an auto-wrecker
-with its red light blinking." Or, "I thought it was a meteor - until it stopped dead in midair," etc. Hynek has a very
-happy phrase for this very typical pattern of witness-response: he terms it "escalation of explanation" , to denote the
-often rapid succession of increasingly more involved attempts to account for and to assimilate what is passing before
-the witness' eyes, almost invariably starting with an everyday interpretation, _not_ with a spaceship hypothesis.
-Indeed, I probably react in a way characteristic of all UFO investigators; in those comparatively rare cases where the
-witness discloses that he immediately interpreted what he sighted as an extraterrestrial device, I back away from
-what is likely to be a most unprofitable interview. I repeat: such instances are really quite rare; most of the general
-population has soaked up a degree of scientific conventionalism that reflects the net result of decades, if not
+1. Sources of cases dealt with:
+Prior to 1966, I had interviewed about 150-200 persons reporting UFOs; since 1966, I have 
+interviewed about 200-250 more. The basis of my post-1966 interviewing has been quite 
+different from the earlier period of interviewing of local witnesses, whose sightings I 
+heard about essentially by chance. Almost all of my post-1966 interviews have been with 
+witnesses in cases already, investigated by one or more of the private UFO investigatory 
+groups such as NICAP or APRO, or by the official investigative agency (Project Bluebook). 
+Thus, after 1966, I was not dealing with a body of witnesses reporting Venus, fireballs, 
+and aircraft strobelights, because such cases are so easily recognizable that the groups 
+whose prior checks I was taking advantage of had already culled out and rejected most
+of such irrelevant material. Many of the cases I checked were older cases, some over 20 
+years old. It was primarily the background work of the many independent investigatory 
+groups here and in other parts of the world (especially the Australian area where I had an 
+opportunity to interview about 80 witnesses) that made possible my dealing with that type 
+of once sifted data that yields up scientifically interesting information so quickly. I 
+wish to put on record my indebtedness to these "dedicated amateurs", to use the astronomer's 
+genial term; their contribution to the ultimate clarification of the UFO problem will become 
+recognized as having been of basic importance, notwithstanding the scorn with which 
+scientists have, on more than one occasion, dismissed their efforts. Although I cite only 
+the larger of these groups (NICAP about 12,000 members, APRO about 8,000), there are many 
+smaller groups here and abroad that have done a most commendable job on almost no resources. 
+(Needless to add, there are other small groups whose concern is only with sensational and 
+speculative aspects.)
+
+2. Some relevant witness-characteristics:
+By frequently discussing my own interviewing experience with members of those non-official 
+UFO groups whose past work has been so indispensable to my own studies, I have learned that 
+most of my own reactions to the UFO witness- interview problem are shared by those investigators. 
+The recurrent problem of securing unequivocal descriptions, the almost excruciating difficulty 
+in securing meaningful estimates of angular size, angular elevation, and angular displacements 
+from laymen, the inevitable variance of witness descriptions of a shared observation, and 
+other difficulties of non-instrumental observing are familiar to all who have investigated 
+UFO reports. But so also are the impressions of widespread concern among UFO witnesses to 
+avoid (rather than to seek) publicity over their sightings. The strong disinclination to 
+make an open report of an observation of something the witness realizes is far outside the 
+bounds of accepted experience crops up again and again. In my interviewing in 1947 sightings, 
+done as a cross check on case material used in a very valuable recent publication by Bloecher 
+(Ref. 8), I came to realize clearly for the first time that this reluctance was not something 
+instilled by post-1947 scoffing at UFOs, but is part of a broadly disseminated attitude to 
+discount the anomalous and the inexplicable, to be unwilling even to report what one has seen 
+with his own eyes if it is well outside normal experience as currently accepted. I have heard 
+fellow-scientists express dismay at the unscientific credulity with which the general public 
+jumps to the conclusion that UFOs are space ships. Those scientists have certainly not 
+interviewed many UFO witnesses; for almost precisely the opposite attitude is overwhelmingly 
+the characteristic response. In my Australian interviewing, I found the same uneasy feeling 
+about openly reporting an observation of a well-defined UFO sighting, lest acquaintances 
+think one "has gone round the bend." Investigators in still other parts of the world where 
+modern scientific values dominate world-views have told me of encountering just this same 
+witness-reluctance, The charge that UFO witnesses, as a group, are hyperexcitable types 
+is entirely incorrect. I would agree with the way Maj. Gen. John A. Samford, then 
+Director of Air Force Intelligence, put it in a 1952 Pentagon press conference: "Credible 
+observers have sighted relatively incredible objects." 
+Not only is the charge of notoriety-seeking wrong, not only is the charge of hyperexcitability 
+quite inappropriate to the witnesses I have interviewed, but so also is the easy charge 
+that they see an unusual aerial phenomenon and directly leap to some kind of "spaceship 
+hypothesis." My experience in interviewing witnesses in the selected sample I have examined 
+since 1966 is that the witness first attempts to fit the anomalous observation into some
+entirely _conventional_ category. "I thought it must be an airplane." Or, "At first, I 
+thought it was an auto-wrecker with its red light blinking." Or, "I thought it was a 
+meteor - until it stopped dead in midair," etc. Hynek has a very happy phrase for this 
+very typical pattern of witness-response: he terms it "escalation of explanation" , to 
+denote the often rapid succession of increasingly more involved attempts to account for 
+and to assimilate what is passing before the witness' eyes, almost invariably starting 
+with an everyday interpretation, _not_ with a spaceship hypothesis. Indeed, I probably 
+react in a way characteristic of all UFO investigators; in those comparatively rare cases 
+where the witness discloses that he immediately interpreted what he sighted as an 
+extraterrestrial device, I back away from what is likely to be a most unprofitable 
+interview. I repeat: such instances are really quite rare; most of the general population 
+has soaked up a degree of scientific conventionalism that reflects the net result of decades, if not
 centuries, of scientific shaping of our views. I might interject that the segment of the population drawn to
 Hypothesis 8 above might be quick to jump to a spaceship interpretation on seeing something unusual in the sky,
 but, on the whole, those persons convinced of Hypothesis 8 are quite uninterested in observations, per se. Their
 conviction is firm without bothering about such things as observational matters. At least that is what I have sensed
 from such exposure as I have had to those who support Hypothesis 8 fervently.
+
 3. Credibility of witnesses:
 Evaluating credibility of witnesses is, of course, an ever-present problem at the present stage of UFO studies. Again,
 from discussions with other investigators, I have concluded that common sense and previous everyday experience
@@ -274,6 +320,7 @@ differ much from those used in jury instructions in our courts (e.g., Federal Ju
 enlarge here on those obvious matters. One can be fooled, of course; but it would be rash indeed to suggest that the
 thousands of UFO reports now on record are simply a testimony to confabulation, as will be better argued by some
 of the cases to be recounted below.
+
 4. Observational reliability of witnesses:
 Separate from credibility in the sense of trustworthiness and honesty is the question of the human being as a sensing
 system. Clearly, it is indispensable to be aware of psychophysical factors limiting visual discrimination, time
@@ -319,9 +366,7 @@ other hand, I suppose that, in several dozen instances, I have lost interest in 
 stressing his own prior and subsequent interest in the extraterrestrial hypothesis.
 Occasionally one encounters witnesses for whom the chance of prior knowledge is so low as to be almost amusing.
 An Anglican missionary in New Guinea, Rev. N. E. G. Cruttwell (Ref. 9), who has done much interviewing of UFO
-witnesses in his area, has described testimony of natives who come down into the mission area from their highland
-home territory only when they are wallaby-hunting, natives who could not read UFO reports in any language of the
-world, yet who come around, in their descriptions of what they have seen, to the communications-shortcut of
+witnesses in his area, has described testimony of natives who come down into the mission area from their highland home territory only when they are wallaby-hunting, natives who could not read UFO reports in any language of the world, yet who come around, in their descriptions of what they have seen, to the communications-shortcut of
 picking up a bowl or dish from a nearby table to suggest the shape they are seeking to describe in native tongue.
 Little chance of bias gained from reading magazines in a barber-chair in such instances.
 6. Types of UFO accounts of present interest:
@@ -332,6 +377,7 @@ and its bewildering complexity. I make that terse comment well aware that it inv
 honesty demands that I make clear that my two years' study convinces me that in the UFO problem lie scientific and
 technological questions that will challenge the ability of the world's outstanding scientists to explain - as soon as
 they start examining the facts.
+
 a) Lights in the night sky.
 ("DLs" as they are called by the NICAP staff, on the basis that the profusion of reports of "damnable lights"
 meandering or hovering or racing across the night sky in unexplainable manner are one of the most common, yet
@@ -339,14 +385,10 @@ one of the least useful and significant categories of UFO reports.) Ultimately, 
 become scientifically very substantial when instrumental observing techniques are in wide use to monitor UFO
 movements. But there are many ways that observers can be misled by lights in the night sky, so I shall discuss below
 only such few cases as are of extremely unconventional nature and where the protocols of the observations are
-unusually strong.
-b) Close-range sightings of wingless discs and cigar-shaped objects.
-This category is far more interesting. Many are daytime sightings, many have been made by witnesses of quite high
-credibility. Structural details such as "ports" and "legs" (to use the terms the witnesses have adopted to suggest most
-closely what they think they have seen) are described in many instances. Lack of wings and lack of evident means of
-propulsion clearly rule out conventional aircraft and helicopters. Many are soundless, many move at such speeds and
+unusually strong. 
 
-with such accelerations that they defy understanding in terms of present technology. It is to be understood that I
+b) Close-range sightings of wingless discs and cigar-shaped objects.
+This category is far more interesting. Many are daytime sightings, many have been made by witnesses of quite high credibility. Structural details such as "ports" and "legs" (to use the terms the witnesses have adopted to suggest most closely what they think they have seen) are described in many instances. Lack of wings and lack of evident means of propulsion clearly rule out conventional aircraft and helicopters. Many are soundless, many move at such speeds and with such accelerations that they defy understanding in terms of present technology. It is to be understood that I
 speak here only of reports from what I regard as credible observers.
 c) Close-range nighttime sightings of glowing, hovering objects, often with blinking or pulsating discrete
 lights.
