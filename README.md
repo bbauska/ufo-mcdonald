@@ -2,27 +2,25 @@
 <h1 id="table-of-contents">ufo-mcdonald</h1>
 
 <ol>
-  <li id="#ch01">Excellent sightings report by Dr. McDonald of ufo's submitted to the house 
-    of representatives 1968.</li>
-  <li id="#ch02">INTRODUCTION</li>
-  <li id="#ch03">SCOPE AND BACKGROUND OF PRESENT COMMENTS</li>
-  <li id="#ch04">THE UNCONVENTIONAL NATURE OF THE UFO PROBLEM</li>
-  <li id="#ch05">SOME ALTERNATIVE HYPOTHESES</li>
-  <li id="#ch06">SOME REMARKS ON INTERVIEWING EXPERIENCE AND TYPES OF UFO CASES ENCOUNTERED</li>
-  <li id="#ch07">WHY DON'T PILOTS SEE UFOs?10</li>
-  <li id="#ch08">WHY ARE UFOs ONLY SEEN BY LONE INDIVIDUALS, WHY NO MULTIPLE-WITNESS SIGHTINGS?</li>
-  <li id="#ch09">WHY AREN'T UFOs EVER SEEN IN CITIES? WHY JUST IN OUT-OF-THE-WAY PLACES?</li>
-  <li id="#ch10">WHY DON'T ASTRONOMERS EVER SEE UFOs?</li>
-  <li id="#ch11">METEOROLOGISTS AND WEATHER OBSERVERS LOOK AT THE SKIES FREQUENTLY. WHY 
+  <li id="#ch01">INTRODUCTION</li>
+  <li id="#ch02">SCOPE AND BACKGROUND OF PRESENT COMMENTS</li>
+  <li id="#ch03">THE UNCONVENTIONAL NATURE OF THE UFO PROBLEM</li>
+  <li id="#ch04">SOME ALTERNATIVE HYPOTHESES</li>
+  <li id="#ch05">SOME REMARKS ON INTERVIEWING EXPERIENCE AND TYPES OF UFO CASES ENCOUNTERED</li>
+  <li id="#ch06">WHY DON'T PILOTS SEE UFOs?10</li>
+  <li id="#ch07">WHY ARE UFOs ONLY SEEN BY LONE INDIVIDUALS, WHY NO MULTIPLE-WITNESS SIGHTINGS?</li>
+  <li id="#ch08">WHY AREN'T UFOs EVER SEEN IN CITIES? WHY JUST IN OUT-OF-THE-WAY PLACES?</li>
+  <li id="#ch09">WHY DON'T ASTRONOMERS EVER SEE UFOs?</li>
+  <li id="#ch10">METEOROLOGISTS AND WEATHER OBSERVERS LOOK AT THE SKIES FREQUENTLY. WHY 
     DON'T THEY SEE UFOs?</li>
-  <li id="#ch12">DON'T WEATHER BALLOONS AND RESEARCH BALLOONS ACCOUNT FOR MANY UFOs?</li>
-  <li id="#ch13">WHY AREN'T UFOs EVER TRACKED BY RADAR?</li>
-  <li id="#ch14">WHY AREN'T THERE NUMEROUS PHOTOS OF UFOs IF THEY REALLY EXIST?</li>
-  <li id="#ch15">IF UFOs ARE REAL, SHOULDN'T THEY PRODUCE SOME REAL PHYSICAL EFFECTS?</li>
-  <li id="#ch16">IS THERE ANY EVIDENCE OF HAZARD OR HOSTILITY IN THE UFO PHENOMENA?</li>
-  <li id="#ch17">MISAPPLICATIONS OF ATMOSPHERIC PHYSICS IN PAST UFO EXPLANATIONS</li>
-  <li id="#ch18">SUMMARY AND RECOMMENDATIONS</li>
-  <li id="#ch19">REFERENCES</li>
+  <li id="#ch11">DON'T WEATHER BALLOONS AND RESEARCH BALLOONS ACCOUNT FOR MANY UFOs?</li>
+  <li id="#ch12">WHY AREN'T UFOs EVER TRACKED BY RADAR?</li>
+  <li id="#ch13">WHY AREN'T THERE NUMEROUS PHOTOS OF UFOs IF THEY REALLY EXIST?</li>
+  <li id="#ch14">IF UFOs ARE REAL, SHOULDN'T THEY PRODUCE SOME REAL PHYSICAL EFFECTS?</li>
+  <li id="#ch15">IS THERE ANY EVIDENCE OF HAZARD OR HOSTILITY IN THE UFO PHENOMENA?</li>
+  <li id="#ch16">MISAPPLICATIONS OF ATMOSPHERIC PHYSICS IN PAST UFO EXPLANATIONS</li>
+  <li id="#ch17">SUMMARY AND RECOMMENDATIONS</li>
+  <li id="#ch18">REFERENCES</li>
 </ol>
 
 (Note: The above table of content is not part of the original paper and has been added for convenience only.)
@@ -43,7 +41,7 @@ Symposium on Unidentified Flying Objects, Rayburn Bldg., Washington, D.C., by Ja
 </blockquote>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch02 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch02">02. INTRODUCTION:</h2>
+<h2 id="ch01">01. INTRODUCTION:</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 I should like first to commend the House Committee on Science and Astronautics for 
 recognizing the need for a closer look at scientific aspects of the long-standing puzzle 
@@ -83,8 +81,8 @@ unparalleled scientific mystery. I hope that our session here today will prove a
 significant turning point, orienting new scientific efforts towards illumination of this 
 scientific problem that has been with us for over 20 years.
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch03 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch03">03. SCOPE AND BACKGROUND OF PRESENT COMMENTS:</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch02 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch02">02. SCOPE AND BACKGROUND OF PRESENT COMMENTS:</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 It has been suggested that I review for you my experiences in interviewing UFO witnesses 
 here and abroad and that I discuss ways in which my professional experience in the field 
@@ -135,8 +133,8 @@ to base an opinion, I find myself increasingly more concerned with what has happ
 the past twenty years' neglect, by almost the entire scientific community, of a problem 
 that appears to be one of extremely high order of scientific importance. 
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch04 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch04">THE UNCONVENTIONAL NATURE OF THE UFO PROBLEM:</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch03 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch03">03. THE UNCONVENTIONAL NATURE OF THE UFO PROBLEM:</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 To both laymen and scientists, the impressive progress that science has made towards 
 understanding our total environment prompts doubts that there could be machine-like 
@@ -168,11 +166,11 @@ a highly unconventional problem. Hence, before reviewing my own investigations i
 detail, and before examining various proposed explanations lying within atmospheric 
 physics, it may be well to take note of some of the principal hypotheses that have 
 been proposed, at one time or another, to account for UFOs.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch05 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch05">SOME ALTERNATIVE HYPOTHESES:</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch04 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch04">04. SOME ALTERNATIVE HYPOTHESES:</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-In seeking explanations for UFO reports, I like to weigh witness accounts in terms of eight principal UFO
-hypotheses:
+<p>In seeking explanations for UFO reports, I like to weigh witness accounts in terms of 
+eight principal UFO hypotheses:</p>
 <ol>
   <li>1. Hoaxes, fabrications, and frauds.</li>
   <li>2. Hallucination, mass hysteria, rumor phenomena.</li>
@@ -187,7 +185,7 @@ hypotheses:
   <li>8. Spaceships bringing messengers of terrestrial salvation and occult truth.</li>
 </ol>
 
-Because I have discussed elsewhere all of these hypotheses in some detail (Ref. 2), 
+<p>Because I have discussed elsewhere all of these hypotheses in some detail (Ref. 2), 
 I shall here only very briefly comment on certain points. Hoaxes and fabrications do 
 crop up, though in percentually far smaller numbers than many UFO scoffers seem to 
 think. Some of the independent groups like APRO and NICAP have done good work in
@@ -211,8 +209,8 @@ psychologists with whom I have managed to have discussions on this
 possibility; I do not omit it from consideration, but, as my own witness interviewing has proceeded, I regard it with decreasing favor. As for Hypothesis 8, it can only be remarked that, in all of the extensive literature published in support thereof, practically none of it has enough ring of authenticity to warrant serious attention. A bizarre "literature" of pseudo-scientific discussion of communications between benign extraterrestrials bent on saving the better elements of humanity from some dire fate implicit in nuclear- weapons testing or other forms of environmental contamination is certainly obtrusive on any paperback stand. That "literature" has been one of the prime factors in discouraging serious scientists from looking into the UFO matter to the extent that might have led them to recognize quickly enough that cultism and wishful thinking have essentially nothing to do with the core of the UFO problem. Again, one must here criticize a good deal of armchair- researching (done chiefly via the daily newspapers that enjoy feature-writing the antics of the more extreme of such groups). A disturbing number of prominent scientists have jumped all too easily to the conclusion that only the nuts see UFOs. 
 The seventh hypothesis, that UFOs may be some form of extraterrestrial devices, origin and objective still unknown, is a hypothesis that has been seriously proposed by many investigators of the UFO problem. Although there seems to be some evidence that this hypothesis was first seriously considered within official investigative channels in 1948 (a year after the June 24, 1947 sighting over Mt. Rainier that brought the UFO problem before the general public), the first open defense of that Hypothesis 7 to be based on any substantial volume of evidence was made by Keyhoe (Ref. 3) in about 1950. His subsequent writings, based on far more evidence than was available to him in 1950, have presented further arguments favoring an extraterrestrial origin of UFOs. Before I began an intensive examination of the UFO problem in 1966, I was disposed to strong doubt that the numerous cases discussed at length in Keyhoe's rather dramatically-written and dramatically-titled books (Ref. 4) could be real cases from real witnesses of any appreciable credibility, I had the same reaction to a 1956 book (Ref. 5) written by Ruppelt, an engineer in charge of
 the official investigations in the important 1951-3 period. Ruppelt did not go as far as Keyhoe in suggesting the extraterrestrial UFO hypothesis, but he left his readers little room for doubt that he leaned toward that hypothesis. I elaborate these two writers' viewpoints because, within the past month, I have had an opportunity to examine in detail a large amount of formerly classified official file material which substantiates to an almost alarming degree the authenticity and hence the scientific import of the case-material upon which Keyhoe and Ruppelt drew for much of their discussions of UFO history in the 1947-53 period (Refs. 6 and 7). One of these sources has Just been published by NICAP (Ref. 7), and constitutes, in my opinion, an exceedingly valuable addition to the growing UFO literature. The defense of the extraterrestrial hypothesis by Keyhoe, and later many others (still not within what are conventionally regarded as scientific circles), has had little impact on the scientific community, which based its write-off of the UFO problem on press accounts and official assurances that careful investigations were turning up nothing that suggested phenomena beyond present scientific explanation. Hypothesis No. 7 has thus received short shrift from science to date. As one scientists who has gone to some effort to try to examine the facts, I say that this has been an egregious, if basically unwitting, scientific error - an error that must be rectified with minimum further delay. On the basis of the evidence I have examined, and on the basis of my own weighing of alternative hypotheses (including some not listed above), I now regard Hypothesis 7 as the one most likely to prove correct. My scientific instincts lead me to hedge that prediction just to the extent of suggesting that if the UFOs are not of extramundane origin, then I suspect that they will prove to be something very much more bizarre, something of perhaps even greater scientific interest than extraterrestrial devices.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch06 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch06">SOME REMARKS ON INTERVIEWING EXPERIENCE AND TYPES OF UFO CASES ENCOUNTERED:</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch05 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch05">05. SOME REMARKS ON INTERVIEWING EXPERIENCE AND TYPES OF UFO CASES ENCOUNTERED:</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 1. Sources of cases dealt with:
 Prior to 1966, I had interviewed about 150-200 persons reporting UFOs; since 1966, I have 
@@ -392,8 +390,8 @@ Another source of sightings of which many may ultimately be found to fall within
 
 To close this brief compilation of useful UFO references, two recent commentaries (not primarily source-references) of merit may be cited, books by Stanton (Ref. 20) and by Young (Ref. 21).
 Next, I examine a number of specific UFO cases that shed light on many of the recurrent questions of skeptical slant often raised against serious consideration of the UFO problem.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch07 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch07">WHY DON'T PILOTS SEE UFOs?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch06 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch06">06. WHY DON'T PILOTS SEE UFOs?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 This question may come in just that form from persons with essentially no knowledge of UFO history. From others
 who do know that there have been "a few" pilot-sightings, it comes in some altered form, such as, "Why don't airline
@@ -623,8 +621,8 @@ climbing westward, eight in line, north of Newport News. The objects climbed abo
 Discussion:
 Menzel explains this famous sighting as resulting from a searchlight playing on thin haze layers, an almost entirely ad hoc assumption, and one that will not account for the amber color, nor for the distinct edges, nor for the final climb-out of the objects. The rapid motion, abrupt course- reversal, and the change from negative to positive angles of elevation of the line of sight to the unknowns seem to preclude any meteorological-opti explanation, and there is, of course, no possibility of explaining cases like this in terms of ball lightning, meteors, balloons, or many of the other frequently adduced phenomena. Nash has stated that he feels these were "intelligently operated craft." This case is officially "Unidentified".
 9. Many other pilot-sightings, both recent and old, could readily be cited. Not only civilian pilots but dozens of military pilots have sighted wholly unconventional objects defying ready explanation (see esp. Ref. 10 and Ref. 7 for many such instances). Thus, the answer to the question, "Why don't pilots see UFOs?" is; "They do." 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch08 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch08">WHY ARE UFOs ONLY SEEN BY LONE INDIVIDUALS, WHY NO MULTIPLE-WITNESS SIGHTINGS?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch07 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch07">07. WHY ARE UFOs ONLY SEEN BY LONE INDIVIDUALS, WHY NO MULTIPLE-WITNESS SIGHTINGS?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 It is true that there are more single-witness UFO reports than multiple- witness cases. But, to indicate that by no
 means all interesting UFO reports entail lone witnesses, consider the following examples:
@@ -897,8 +895,8 @@ had encountered a Redlands University coed who had seen the object (he hadn't in
 seemed still terrified by the incident. I believe that your Committee must recognize an unfilled scientific obligation to get to the bottom of such matters. 8. Many other multiple-witness cases could be cited, some from my own interviewing experience, far more from other sources within this country and abroad. An October 28, 1954 sighting in Rome was estimated to have been viewed by thousands of people, one of whom was U.S. Ambassador Clare
 
 Booth Luce (Ref. 10) with her embassy staff. Mrs. Luce said it had the shape of a silver dollar and crossed the skies in about 30 seconds. A now-famous group of sightings of June 26/27, 1959, near Boianai, New Guinea, was observed by several dozen witnesses, the principal one of whom I interviewed in Melbourne, in 1967, Rev. Wm. B. Gill. Bloecher (Ref. 8) describes a number of mid-1947 incidents where the witness-totals ranged from dozens up to well over a hundred persons. Hall (Ref. 10) cites more recent instances. Many other sources could be cited to show that the intimation that UFOs are never seen except by lone individuals driving along some remote back road (a frequent setting to be sure!) does not accord with the actual facts. Multiple-witness UFO cases are impressively numerous.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch09 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch09">WHY AREN'T UFOs EVER SEEN IN CITIES? WHY JUST IN OUT-OF-THE-WAY PLACES?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch08 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch08">08. WHY AREN'T UFOs EVER SEEN IN CITIES? WHY JUST IN OUT-OF-THE-WAY PLACES?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 One cannot study the UFO problem long without being struck by the preponderance of reports that come from
 somewhat remote areas, non-urban areas. Similarly, one cannot escape the conclusion that more UFOs are reported
@@ -1140,8 +1138,8 @@ Chaff", based evidently (Ref. 6) on a report that some aircraft had made a chaff
 
 5. Perhaps, for present purposes, the foregoing cases will suffice to indicate that there have been significant UFO incidents in cities. Many other examples could easily be cited. Elsewhere (Ref. 2) I have discussed my interviews with witnesses in a case at Beverly, Mass., on the evening of April 22, 1966, where three adult women and subsequently a total of more than half a dozen adults (including two police officers) observed three round lighted objects hovering near a school building in the middle of Beverly. At one early stage of the sighting, one of the discs moved rapidly over the three women, hovering above one of them at an altitude of only a few tens of feet and terrifying the hapless woman until she bolted. This case was quite thoroughly checked by Mr. Raymond E. Fowler, one of NICAP's most able investigators, who has studied numerous other UFO incidents in the New England area. 
 I interviewed witnesses in a most interesting sighting in Omaha in January 1966, where a stubby cigar-shaped object had been seen by a number of persons on the northwest side of the city. Urban UFO cases in other parts of the world are also a matter of at least journalistic if not yet scientific record. To sum up, though non-urban reports are definitely more numerous, urban reports do indeed exist.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch10 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch10">WHY DON'T ASTRONOMERS EVER SEE UFOs?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch09 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch09">09. WHY DON'T ASTRONOMERS EVER SEE UFOs?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 I have had this question put to me by many persons, including a number of astronomers. Once I was speaking to a
 group from an important laboratory of astronomy when the director asked why astronomers never see them. In the
@@ -1304,65 +1302,49 @@ sample is small, that percentage is well above the population percentage who say
 suggests that perhaps astronomers may sight more UFOs than they report as such. Indeed, with the recent
 publication of Ref. 7, further interesting information on that 1952 poll is now at hand. The contract astronomer
 wrote at that time (Ref. 7, Rept. 8), "certainly another contributing factor to their desire not to talk about these
-things is their overwhelming fear of publicity. One headline in the nation's papers to the effect that 'Astronomer Sees
-Flying Saucer' would be enough to brand the astronomer as questionable among his colleagues." Unfortunately, we
+things is their overwhelming fear of publicity. One headline in the nation's papers to the effect that 'Astronomer Sees Flying Saucer' would be enough to brand the astronomer as questionable among his colleagues." Unfortunately, we
 scientists are by no means as open-minded and fearlessly independent as we are sometimes pictured. It is often quite
-difficult to persuade a scientist to let his confidential report of a UFO sighting become a fully open UFO report; and
-my own experience suggests that perhaps astronomers, as a group, are just a bit more sensitive on this score than
-other scientists. At any event, perhaps the above-cited cases will suggest that some astronomers have seen
+difficult to persuade a scientist to let his confidential report of a UFO sighting become a fully open UFO report; and my own experience suggests that perhaps astronomers, as a group, are just a bit more sensitive on this score than other scientists. At any event, perhaps the above-cited cases will suggest that some astronomers have seen
 unidentified flying objects.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch11 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch11">METEOROLOGISTS AND WEATHER OBSERVERS LOOK AT THE SKIES FREQUENTLY. WHY DON'T THEY SEE UFOs?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch10 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch10">10. METEOROLOGISTS AND WEATHER OBSERVERS LOOK AT THE SKIES FREQUENTLY. WHY DON'T THEY SEE UFOs?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 1. Case 26. Richmond, Va., April 1947:
-To begin an answer to that rhetorical question, we might consider an observation made by a weather observer at the
-Richmond, Va., U. S. Weather Bureau station, about two months before the first national publicity concerning
-UFOs. Walter A. Minczewski, whom I located at the same Weather Bureau office where he made the sighting in
-1947, was making a pilot balloon observation, when he spotted a silvery object that entered the field of his
-theodolite (which was trained on the balloon he had released). In the account that Minczewski sent me, he stated that
-"the bottom was flat and the top was slightly dome-shaped"; and when he tried to see it with naked eye, he could not
-spot it. (Typical pilot balloon theodolites have magnifications of about 20 to 25, and angular fields that are usually
-about a degree across.) It was a "clear bright morning" when he spotted the object, and it lay to his NNE at an
-elevation of about 45 degrees. Whether Minczewski really saw the upper surface or formed his mental impressions
-without realizing that the theodolite may have inverted the image is now unclear, and my questioning did not settle
-that point.
+To begin an answer to that rhetorical question, we might consider an observation made by 
+a weather observer at the Richmond, Va., U. S. Weather Bureau station, about two months 
+before the first national publicity concerning UFOs. Walter A. Minczewski, whom I located 
+at the same Weather Bureau office where he made the sighting in 1947, was making a pilot 
+balloon observation, when he spotted a silvery object that entered the field of his 
+theodolite (which was trained on the balloon he had released). In the account that 
+Minczewski sent me, he stated that "the bottom was flat and the top was slightly 
+dome-shaped"; and when he tried to see it with naked eye, he could not spot it. 
+(Typical pilot balloon theodolites have magnifications of about 20 to 25, and angular 
+fields that are usually about a degree across.) It was a "clear bright morning" when he 
+spotted the object, and it lay to his NNE at an elevation of about 45 degrees. Whether 
+Minczewski really saw the upper surface or formed his mental impressions without 
+realizing that the theodolite may have inverted the image is now unclear, and my 
+questioning did not settle that point.
+
 Discussion:
 A report of this sighting is in the official files, a circumstance which greatly surprised Minczewski, since he had
 discussed it only with his fellow workers. In the ensuing two decades, he has never again seen anything like it.
-Clearly, the probability of an object crossing the small angular field of a meteorological theodolite is quite low, if
-only chance were involved here. He tried to track it but lost it, due to its high angular velocity, after about five or six
-seconds, he recalled. No obvious conventional explanation suggests itself for this early sighting.
-2. Case 27. Yuma, Ariz., February 4, 1953:
+Clearly, the probability of an object crossing the small angular field of a meteorological theodolite is quite low, if only chance were involved here. He tried to track it but lost it, due to its high angular velocity, after about five or six seconds, he recalled. No obvious conventional explanation suggests itself for this early sighting.
+2. Case 27. Yuma, Ariz., February 4, 1953: 
 Weather Bureau observer S.H. Brown was tracking a pilot balloon at 6000 ft over Yuma at 1:50 p.m. MST on 2/4/53
 when first one and then a second unidentified object moved across his theodolite field, somewhat as in the preceding
 case. I obtained an account of this sighting from V.B. Cotten, Meteorologist-in-Charge at the Yuma station. The full
 account is too long for recapitulation here. Both objects appeared to be of the order of a minute of arc in diameter
 and appeared "almost round, a solid dull pure white color, with a thin white mist completely edging each object."
-The first object moved into the optical field and curved upwards to the west, with the theodolite oriented to about 53
-degrees elevation, 157 degrees azimuth. About 20 seconds later, a second object entered the field and moved in and
-out of the field erratically two times, to rejoin the first object. Brown was able to track the pair thereafter, as they
-jointly changed both azimuth and elevation. Because he had a stopwatch at hand for the balloon observation (which
-he did not complete because of following the unknown objects), he was able to determine that he followed the pair
-of objects for five minutes (1350 to 1355), until he lost sight of them against a cirrus cloud deck to the SSW. At the
-termination of the observation, his instrument was pointed to 29 degrees elevation, 204 degrees azimuth.
+The first object moved into the optical field and curved upwards to the west, with the theodolite oriented to about 53 degrees elevation, 157 degrees azimuth. About 20 seconds later, a second object entered the field and moved in and out of the field erratically two times, to rejoin the first object. Brown was able to track the pair thereafter, as they jointly changed both azimuth and elevation. Because he had a stopwatch at hand for the balloon observation (which he did not complete because of following the unknown objects), he was able to determine that he followed the pair of objects for five minutes (1350 to 1355), until he lost sight of them against a cirrus cloud deck to the SSW. At the termination of the observation, his instrument was pointed to 29 degrees elevation, 204 degrees azimuth. 
+
 Discussion:
-This case is carried as Unidentified in the official files (see Ref. 7 for official summary). At times these objects lay
-near the sun's position in the sky, which might suggest forward-angle scattering of sunlight by airborne particles.
-However, initially, the objects were detected at angular distance of about 40 degrees from the solar position, which
-would not yield appreciable low-angle scattering. Furthermore, if these were airborne scatterers, they would almost
-certainly be separated by random turbulence within as long a period as five minutes, yet the observer's report
-indicates that they maneuvered together within angular separations of the order of the roughly one-degree field of
-such theodolites. The fact that the second object did go out of the field only to return to the vicinity of the first object
-strains the airborne particle hypothesis. Thus the official categorization of Unidentified seems reasonable here.
-3. Case 28. Upington, Cape Province, December 7, 1954:
+This case is carried as Unidentified in the official files (see Ref. 7 for official summary). At times these objects lay near the sun's position in the sky, which might suggest forward-angle scattering of sunlight by airborne particles. However, initially, the objects were detected at angular distance of about 40 degrees from the solar position, which would not yield appreciable low-angle scattering. Furthermore, if these were airborne scatterers, they would almost certainly be separated by random turbulence within as long a period as five minutes, yet the observer's report indicates that they maneuvered together within angular separations of the order of the roughly one-degree field of such theodolites. The fact that the second object did go out of the field only to return to the vicinity of the first object strains the airborne particle hypothesis. Thus the official categorization of Unidentified seems reasonable here. 3. Case 28. Upington, Cape Province, December 7, 1954:
 R.H. Kleyweg, Officer-in-Charge of the Upington Meteorological Station, had just released a balloon for upper-
 wind measurement and was shielding his eyes from the sun trying to spot the balloon to get his theodolite on it.
 
 Seeing an object east of the sun, moving slowly to the west, he thought it was his balloon and got the theodolite on
-it, only to find that it was white, whereas he had released a red balloon. An account in the Natal _Mercury_, January
-28, 1955, quoted Kleyweg as saying that it seemed "like a half-circle with the sun reflecting off the sloping top." He
-had no difficulty following it for about three minutes, but then it began to accelerate and, after another minute, he
-was unable to track fast-enough to keep it in optical view (Ref. 10).
+it, only to find that it was white, whereas he had released a red balloon. An account in the Natal _Mercury_, January 28, 1955, quoted Kleyweg as saying that it seemed "like a half-circle with the sun reflecting off the sloping top." He had no difficulty following it for about three minutes, but then it began to accelerate and, after another minute, he was unable to track fast-enough to keep it in optical view (Ref. 10).
+
 Discussion:
 Kleyweg was quoted in the cited press source as saying, "I have followed thousands of meteorological balloons.
 This object was no balloon." A South African student doing graduate work in my Department, Petrus DuToit, has
@@ -1387,6 +1369,7 @@ airborne object across the sky; but the winds were blowing more or less at right
 93,000 ft level, and were rather weak (Ref. 10). The angular diameter of the object was estimated at about a minute
 of arc (which in the 25-power theodolite would appear to Moore as about three-fourths the apparent size of the
 moon).
+
 Discussion:
 Moore's sighting is carried as Unidentified in official files. Menzel (Ref. 24) says of it:
 "This incident, kept in the classified files for more than two years, presents no serious difficulty to
@@ -1397,41 +1380,22 @@ focus and badly astigmatic image of the balloon."
 It would be interesting to hear Menzel present a quantitative defense of that astonishing disposition of this
 interesting sighting. Here five witnesses, with aid of a tracking device giving better than rough angular coordinate
 information on the movements of an unknown object, observe the object move through an arc of over 90 degrees
-that took it into a part of the sky about that same large-angular distance from the real balloon's location, and Menzel
-adduces a "lens of air" to explain it away. Astronomers find atmospheric scintillation a very serious observational
-problem because stellar images are often erratically shifted by tens of seconds of arc from their mean position as a
-result of atmospheric turbulence effects. In the 5/24/49 Moore sighting, Menzel is proposing that the atmosphere
-carried a refracted image of the balloon northeastward at a steady rate of excursion that finally totaled several
-thousand times the magnitude of refractive angular image- displacements known to occur with bad seeing. I feel
-obliged to repeat an observation I have made before: If the transmission properties of the Earth's atmosphere were as
-anomalous as Menzel assumes in his handling of UFO observations, he and his colleagues would be out of business.
-The official categorization of Unidentified for the Moore sighting seems inescapable. It might be added that, over
+that took it into a part of the sky about that same large-angular distance from the real balloon's location, and Menzel adduces a "lens of air" to explain it away. Astronomers find atmospheric scintillation a very serious observational problem because stellar images are often erratically shifted by tens of seconds of arc from their mean position as a result of atmospheric turbulence effects. In the 5/24/49 Moore sighting, Menzel is proposing that the atmosphere carried a refracted image of the balloon northeastward at a steady rate of excursion that finally totaled several thousand times the magnitude of refractive angular image- displacements known to occur with bad seeing. I feel obliged to repeat an observation I have made before: If the transmission properties of the Earth's atmosphere were as anomalous as Menzel assumes in his handling of UFO observations, he and his colleagues would be out of business. The official categorization of Unidentified for the Moore sighting seems inescapable. It might be added that, over the years, there have been very many UFO observations of significant nature from the vicinity of White Sands Proving Ground, many involving instrumental tracking, many made by experienced observers. A long and impressive list of them could easily be compiled, yet all have been slowly lost from official cognizance by a process that is characteristically at the heart of response to the UFO problem.
 
-the years, there have been very many UFO observations of significant nature from the vicinity of White Sands
-Proving Ground, many involving instrumental tracking, many made by experienced observers. A long and
-impressive list of them could easily be compiled, yet all have been slowly lost from official cognizance by a process
-that is characteristically at the heart of response to the UFO problem.
 5. Case 30. Admiralty Bay, Antarctica, March 16, 1961:
 This listing of UFO sightings by meteorologists could be extended very considerably by drawing on my file of such
 cases. To cite just one more that also indicates the global scale of the UFO phenomena, a very unusual luminous
 unidentified aerial object seen by a meteorologist and others aboard the U.S.S. Glacier at about 6:15 p.m. on 3/16/61
 in the Antarctic will be mentioned. I have quite recently received, through French UFO investigator Rene Fouere, a
 rather detailed summary of this sighting by Brazilian meteorologist Rubens J. Villela, whose earlier account I had
-seen but paid little attention to (Ref. 10). The point I had missed, prior to reading Villela's detailed description of the
-circumstances of the sighting, was the very important feature of a low cloud overcast present at about 1500 ft above
-the sea. With three shipmates on the flying bridge, Villela suddenly saw
-"a multicolored luminous object crossing the sky,"
-an object which for a moment they took to be an unusual meteor.
+seen but paid little attention to (Ref. 10). The point I had missed, prior to reading Villela's detailed description of the circumstances of the sighting, was the very important feature of a low cloud overcast present at about 1500 ft above the sea. With three shipmates on the flying bridge, Villela suddenly saw "a multicolored luminous object crossing the sky," an object which for a moment they took to be an unusual meteor.
 "It was egg-shaped, colored mainly reddish at first, and traveled slowly from NE to SW at about
 50 degrees above the horizon, on a straight horizontal trajectory. From its frontal part, several
 multicolored,perfectly straight 'rays' extended backwards, diverging outwards at an angle; green,
 red, and blue. Most striking of all, it left a long trail of orange color in the form of a perfectly
 straight tube which gave the distinct impression of being hollow, faintly comparable to a neon
 light."
-Villela stated in his summary,
-Then,
-"Suddenly, the object divided in two. It was not an explosion, it was a controlled division in two
-equal parts, one behind the other, each egg-shaped as before and each radiating outwards its V-
+Villela stated in his summary, Then, "Suddenly, the object divided in two. It was not an explosion, it was a controlled division in two equal parts, one behind the other, each egg-shaped as before and each radiating outwards its V-
 shaped lateral rays. Then the object shone with a slightly stronger light, changing color to blue
 and white, and disappeared completely. That's it -- just disappeared, abruptly."
 His account emphasizes that the boundaries of the object(s) were definite and sharp, not diffuse. Villela's account
@@ -1456,8 +1420,8 @@ a shock to every scientist who takes the necessary time to look into the wealth 
 archives over the past two decades and more. Official assertions to the effect that UFO reports in no way defy
 explanation in terms of present scientific and technological knowledge are, in my opinion, entirely unjustified. The
 Villella sighting seems a case in point. And meteorologists do see UFOs, as the foregoing cases should suggest.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch12 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch12">DON'T WEATHER BALLOONS AND RESEARCH BALLOONS ACCOUNT FOR MANY UFOs?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch11 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch11">11. DON'T WEATHER BALLOONS AND RESEARCH BALLOONS ACCOUNT FOR MANY UFOs?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Probably the most categorical statement ever made attributing UFO observations to balloons appeared in a _Look_
 magazine article by Richard Wilson in February 1951, entitled, "A Nuclear Physicist Exposes Flying Saucers." Dr.
@@ -1642,8 +1606,8 @@ white-colored, disc-like object" overhead. 5. In my files are many other "balloo
 cases that ought never have been so labeled, had the evaluators kept relevant quantitative points in mind. To ignore
 most of the salient features of a sighting in order to advance an easy "balloon" explanation is only one more of many
 different ways in which some very puzzling UFO observations have been shoved out of sight.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch13 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch13">WHY AREN'T UFOs EVER TRACKED BY RADAR?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch12 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch12">12. WHY AREN'T UFOs EVER TRACKED BY RADAR?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 The skeptic who asks this question, and many do, is asking a very reasonable question. With so much radar
 equipment deployed all over the world, and especially within the United States, it seems sensible to expect that, if
@@ -1841,8 +1805,8 @@ tracked on the airborne scopes and were seen simultaneously by crew men, moving 
 by (Refs. 4, 10, 25). This one is still carried as Unidentified in official files. Still another famous combined radar-
 visual case, which Hynek has termed "one of the most puzzling cases I have studied," occurred between Rapid City and Bismarck on August 5, 1953. It involved both ground and airborne radar and ground and airborne visual sightings, but is far too long and complex to recapitulate here.
 Perhaps the above suffices to indicate that UFOs are at times seen on radar and have been seen for many years. The question of why we don't hear a great deal about such sightings, especially with newer and more elaborate surveillance radars, is a reasonable question. Some of the answers to that one are posed by the statement of Dr. Robert M. L. Baker, Jr., in these proceedings. Other parts of the answer must be omitted here.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch14 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch14">WHY AREN'T THERE NUMEROUS PHOTOS OF UFOs IF THEY REALLY EXIST?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch13 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch13">13. WHY AREN'T THERE NUMEROUS PHOTOS OF UFOs IF THEY REALLY EXIST?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Here is a question for which I regard available answers as still unsatisfactory. I concede that it does seem reasonable
 to expect that there should, over the past 20 years, be substantially more good photos than are known to exist.
@@ -1968,8 +1932,8 @@ aware are still in process of being checked in one way or another.
 To summarize, I do have the impression that we ought to have more valid UFO photos than the small number of
 which I am aware.
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch15 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch15">IF UFOs ARE REAL, SHOULDN'T THEY PRODUCE SOME REAL PHYSICAL EFFECTS?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch14 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch14">14. IF UFOs ARE REAL, SHOULDN'T THEY PRODUCE SOME REAL PHYSICAL EFFECTS?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Again, the answer is that they do. There are rather well-authenticated cases spanning a wide variety of "physical effects." Car-stopping cases are one important class. UFOs have repeatedly been associated with ignition failures and light-failures of cars and trucks which came near UFOs or near which the UFOs moved. I would estimate that one could assemble a list of four or five dozen such instances from various parts of the world. Interference with radios and TV receptions have been reported many times in connection with UFO sightings. There are instances where UFOs have been reported as landing, and after departure, holes in the ground, or depressions in sod or disturbed vegetation patterns have been described. In many such instances, the evident reliability of the witnesses is high, the likelihood of hoax or artifice small. A limited number of instances of residues left behind are on record, but these are not backed up by meaningful laboratory analyses, unfortunately.
 A physical effect that does not typically occur under conditions where the description of events might seem to call for it, relates to sonic booms. Although there are on record a few cases where fast-moving UFOs were accompanied by explosive sounds that might be associated with sonic booms, there are far more instances in which the reported velocity corresponded to supersonic speeds, yet no booms were reported. A small fraction of these can be rationalized by noting that the reporting witnesses were located back within the "Mach cone" of the departing UFO; but this will not suffice to explain away the difficulty. One feels that if UFOs are solid objects, capable of leaving depressions in soil or railroad ties when they land, and if they can dash out of sight in a few seconds (as has been repeatedly asserted by credible witnesses), they should produce sonic booms. This remains inexplicable; one can only lamely speculate that perhaps there are ways of eliminating sonic booms that we have not yet discovered; perhaps the answer involves some entirely different consideration.
@@ -1984,8 +1948,8 @@ required in attempting generalization. Curiously, a peculiar tingling and paraly
 than any other physiological effects. A person who is almost unaware of the ramifications of the UFO evidence may
 think it absurd to assert that people have been paralyzed in proximity to UFOs; the skeptic might find it
 inconceivable that such cases would go unnoticed in press and medical literature. Far from it, I regret to have to say, on the basis of my own investigations. I have encountered cases where severe bodily damage was done, or where evident hazard of damage was involved, yet the witness and his family found ridicule mounting so much faster than sympathy that it was regarded wiser to quietly forget the whole thing. At an early stage of my investigations I would have regarded that as quite unbelievable; UFO investigators with longer experience than mine will smile at that statement, but probably they will smile with a degree of understanding. I could cite specific illustrations to make all this much clearer, but will omit them for space-limitations, except for a few remarks in the next section.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch16 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch16">IS THERE ANY EVIDENCE OF HAZARD OR HOSTILITY IN THE UFO PHENOMENA?</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch15 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch15">15. IS THERE ANY EVIDENCE OF HAZARD OR HOSTILITY IN THE UFO PHENOMENA?</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Official statements have emphasized, for the past two decades, that there is no evidence of hostility in the UFO phenomena. To a large degree, this same conclusion seems indicated in the body of evidence gathered by
 independent investigators. The related question as to potential hazard is Perhaps less clear. There are on record a
@@ -2134,8 +2098,8 @@ engineering, ought to be taking a very close look at this problem. I am unaware 
 potentially important problem. Note that a problem, a hazard, could exist in this context with out anything
 warranting the label of hostility.
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch17 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch17">MISAPPLICATIONS OF ATMOSPHERIC PHYSICS IN PAST UFO EXPLANATIONS:</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch16 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch16">16. MISAPPLICATIONS OF ATMOSPHERIC PHYSICS IN PAST UFO EXPLANATIONS:</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 1. General Comments:
@@ -2287,8 +2251,8 @@ experienced operator would be likely to confuse with the strong return from an a
 Also, other peculiar radar effects such as interference with other nearby sets, forward scatter from weak tropospheric discontinuities (see work of Atlas and others), and odd secondary reflections from ground targets need to be kept in mind.
 When one analyzes some of the famous radar-tracking cases in the UFO literature, none of these propagation
 anomalies seem typical as accounting for the more interesting cases. Several examples have already been discussed above (Cases 32, 35, 36, 37, 38, 39).
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch18 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch18">SUMMARY AND RECOMMENDATIONS:</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch17 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch17">17. SUMMARY AND RECOMMENDATIONS:</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In summary, I wish to emphasize that my own study of the UFO problem has convinced me that we must rapidly
 escalate serious scientific attention to this extraordinarily intriguing puzzle.
@@ -2318,8 +2282,8 @@ conceivable rationales can be suggested. All are speculative, however; what is u
 vigorous scientific investigation of the full spectrum of UFO phenomena, and the House Committee on Science and
 Astronautics could perform a very significant service by taking steps aimed in that direction.
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch19 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch19">REFERENCES:</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ch18 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch18">18. REFERENCES:</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 1. NICAP Special Bulletin, May 1960: Admiral Hillenkoeter was a NICAP Advisory Board member at the
 time of making the quoted statement.
